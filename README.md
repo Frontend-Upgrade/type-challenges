@@ -16,7 +16,7 @@
 ## Intro
 
 <p align='center'>
-  <del><em>by the power of TypeScript's well-known <a href="https://github.com/microsoft/TypeScript/issues/14833">Turing Completed</a> type system</em></del>
+
 </p>
 
 타입을 잘 선언하면 잠재적인 버그를 피할 수 있고 프로젝트의 유지보수를 향상시킬 수 있습니다. 
@@ -62,36 +62,5 @@
 - [Type Challenges Solutions](https://github.com/ghaiklor/type-challenges-solutions)
 - [TypeType Examples](https://github.com/mistlog/typetype-examples)
 
-> TODO
 
-## 기여 방법
 
-이 프로젝트에 기여할 수 있는 방법은 다음과 같습니다
-
-- 해답/ 해결책 공유하기
-- 새로운 챌린지 제시하기 
-- 기존 챌린지에 테스트 케이스 추가하기 
-- 배울 수 있는 리소스 제공 또는 챌린지를 어떻게 해결할지 아이디어 제공하기
-- 해결책이 있든지 없든지 상관없이 현업에서 마주하는 문제 공유하기 - 커뮤니티도 해당 문제를 해결하는데 도움을 줄 수 있습니다.
-- 이슈에서 토론하며 다른 사람들 도와주기
-- 해당 프로젝트 인프라에 기여하기 [TODOs.md](./TODOs.md)
-
-[open an issue](https://github.com/type-challenges/type-challenges/issues/new/choose) 를 눌러서 맞는 템플릿을 선택하세요. 감사합니다!
-
-## Thanks
-
-This project was born from solving real-world types problem with [@hardfist](https://github.com/hardfist) and [@MeCKodo](https://github.com/MeCKodo). And great thanks to [@sinoon](https://github.com/sinoon) who contributed a lot while giving early feedback on this project.
-
-### Inspired by
-
-- [piotrwitek/utility-types](https://github.com/piotrwitek/utility-types)
-- [psmyrdek/typescript-challenges](https://github.com/psmyrdek/typescript-challenges)
-- [andnp/SimplyTyped](https://github.com/andnp/SimplyTyped)
-
-### [Contributors](https://github.com/type-challenges/type-challenges/graphs/contributors)
-
-![Contributors](https://contrib.rocks/image?repo=type-challenges/type-challenges)
-
-## License
-
-MIT
